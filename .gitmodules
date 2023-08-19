@@ -1,0 +1,9 @@
+[submodule "assignment1"]
+	path = xv6
+	url = https://github.com/FuckingOs/xv6.git
+[submodule "assignment2"]
+	path = assignment2
+	url = https://github.com/FuckingOs/assignment2.git
+[submodule "assignment3"]
+	path = assignment3
+	url = https://github.com/FuckingOs/assignment3.git
